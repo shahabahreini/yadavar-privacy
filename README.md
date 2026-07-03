@@ -6,9 +6,10 @@ Use this repository to report bugs, request improvements, ask support questions,
 
 ## Official Links
 
-- Website: https://yadavar-web.shahabahreini.workers.dev/
-- Privacy Policy: https://yadavar-web.shahabahreini.workers.dev/privacy
-- Support: https://yadavar-web.shahabahreini.workers.dev/support
+- Product website: https://yadavar-web.shahabahreini.workers.dev/
+- Public support home: https://shahabahreini.github.io/yadavar-privacy/
+- Privacy Policy page: https://shahabahreini.github.io/yadavar-privacy/privacy.html
+- Support page: https://shahabahreini.github.io/yadavar-privacy/support.html
 - Issues: https://github.com/shahabahreini/yadavar-privacy/issues
 - Email: [shahabahreini@hotmail.com](mailto:shahabahreini@hotmail.com)
 

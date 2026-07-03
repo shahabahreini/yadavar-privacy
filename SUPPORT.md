@@ -1,6 +1,6 @@
 # Yadavar Support
 
-**Official support URL:** https://yadavar-web.shahabahreini.workers.dev/support
+**Public page:** https://shahabahreini.github.io/yadavar-privacy/support.html
 
 Use this page to get help with Yadavar, report bugs, or request improvements.
 

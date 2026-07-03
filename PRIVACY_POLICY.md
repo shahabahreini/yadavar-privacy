@@ -1,7 +1,7 @@
 # Privacy Policy for Yadavar
 
 **Last updated:** July 3, 2026  
-**Official URL:** https://yadavar-web.shahabahreini.workers.dev/privacy
+**Public page:** https://shahabahreini.github.io/yadavar-privacy/privacy.html
 
 Yadavar (یادآور) is a Persian calendar and reminder app developed by Shahab Bahreini Jangjoo. This policy explains what information the app handles and how it is used.
 
