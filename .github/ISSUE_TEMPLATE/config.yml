@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Email Support
+    url: mailto:shahabahreini@hotmail.com
+    about: Contact the developer directly for account, privacy, or sensitive support requests.
+  - name: Official Support Page
+    url: https://yadavar-web.shahabahreini.workers.dev/support
+    about: Read support guidance and common answers.
