@@ -2,6 +2,17 @@
 
 Notable public-support and app-documentation updates for Yadavar.
 
+## 3.0.3 - September 2026
+
+### What's New & Improvements
+
+- Fixed the bottom menu overlapping the Android navigation bar (gesture and 3-button navigation).
+- App now opens on the home screen instead of Settings.
+- Added a help card to quickly add a new event when the list is empty.
+- Visual improvements and better app stability.
+- Direct desktop builds published for macOS (`.dmg`), Windows (`.exe`), and Linux (`.deb`, `.AppImage`, `.rpm`).
+- Added official download links for Google Play Store, Apple App Store, and GitHub Releases on the public support page.
+
 ## 2.3.0 - July 2026
 
 ### Added
